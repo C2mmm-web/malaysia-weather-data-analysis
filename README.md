@@ -19,9 +19,14 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Files
 
-- `malaysia_weather_analysis.ipynb`: cleaned portfolio notebook
+- `full_group_weather_analysis.ipynb`: complete group notebook with the full workflow, analysis, results, limitations, and contribution record
+- `malaysia_weather_analysis.ipynb`: shorter, runnable portfolio walkthrough using the dataset included here
 - `malaysia_weather_cleaned.csv`: cleaned dataset used by the notebook
 - `requirements.txt`: required Python packages
+
+## Notebook versions
+
+The full group notebook preserves the original analysis and saved outputs. Some source-stage files referenced during the original group workflow are not included in this repository, so use the shorter notebook for a reproducible run with the included CSV.
 
 ## Main conclusion
 
